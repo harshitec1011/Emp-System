@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 
 import java.util.List;
 
-
+//This is Controller class
 @Controller
 public class EmpController {
 
